@@ -4,9 +4,10 @@
   <_Project>
     <ProjectName val="GItTest"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
     <VCUseGitPlugin val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{8E190B3C-45A1-429B-8D19-636F391F5C1B}"/>
